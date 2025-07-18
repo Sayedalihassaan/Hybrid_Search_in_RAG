@@ -1,7 +1,3 @@
-Here’s a professional **README** for your **Hybrid Search in RAG** project based on your notebook `Hybrid_Search_in_RAG.ipynb` and the context of your screenshot:
-
----
-
 # **Hybrid Search in RAG**
 
 This project demonstrates how to implement **Hybrid Search** (a combination of vector-based semantic search and keyword-based search) within a **Retrieval-Augmented Generation (RAG)** pipeline. It leverages dense embeddings for semantic similarity and BM25 for keyword relevance, ensuring both accuracy and relevance in search results.
